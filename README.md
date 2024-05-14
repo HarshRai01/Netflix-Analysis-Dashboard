@@ -1,4 +1,4 @@
-# Netflix-Analysis-Dashboard
+# Netflix-Data-Analysis
 Project Problem Statement -
 The objective of this project is to analyze Netflix data to optimize advertising strategies. The key challenges include identifying target demographics for Netflix ads, determining the most-viewed countries and preferred content categories, tracking the yearly progression of viewership trends, and providing actionable insights through interactive visualizations.
 
